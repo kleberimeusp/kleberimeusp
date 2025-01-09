@@ -44,36 +44,6 @@ My contributions to various industries include:
 - **Automotive**: Collaborated with leaders like **Toyota** and **Volkswagen** to optimize production chains using AI and robotics.
 - **Pharmaceuticals**: Designed technological strategies for leaders like **Pfizer** and **Novartis**, promoting efficiency in R&D and clinical data management.
 
-### The World's Best Companies by Segment
-
-#### Finance:
-1. **JPMorgan Chase**  
-2. **Goldman Sachs**
-
-#### Retail:
-1. **Amazon**  
-2. **Walmart**
-
-#### Telecommunications:
-1. **AT&T**  
-2. **Verizon**
-
-#### Content and Journalism:
-1. **The New York Times**  
-2. **BBC**
-
-#### Chemical Industries:
-1. **BASF**  
-2. **Dow Chemical**
-
-#### Automotive Industries:
-1. **Toyota**  
-2. **Volkswagen**
-
-#### Pharmaceutical Industries:
-1. **Pfizer**  
-2. **Novartis**
-
 ---
 
 ### Social Impact with Generative AI

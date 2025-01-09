@@ -1,10 +1,8 @@
 # Kléber Augusto Allmeida
 
----
+##Keywords 
 
-**Keywords:** Manager Solutions Architecture | Leadership | IT Governance | Technology Strategy | Cloud | Enterprise Architecture | Kubernetes | Azure | Team Management | Scalability | Systems Integration | Agile Methodologies | Technological Innovation | Microservices | DevOps | Digital Transformation | Big Data | Requirements Analysis | Compliance and Security | Architecture Documentation | Back-End For Front-End (BFF)
-
----
+Manager Solutions Architecture | Leadership | IT Governance | Technology Strategy | Cloud | Enterprise Architecture | Kubernetes | Azure | Team Management | Scalability | Systems Integration | Agile Methodologies | Technological Innovation | Microservices | DevOps | Digital Transformation | Big Data | Requirements Analysis | Compliance and Security | Architecture Documentation | Back-End For Front-End (BFF)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberaugustosantos/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber.ime.usp@gmail.com)

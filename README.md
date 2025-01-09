@@ -1,7 +1,6 @@
 # Kléber Augusto Allmeida
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberaugustosantos/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber.ime.usp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberaugustosantos/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber.ime.usp@gmail.com)
 
 ## About Me
 
@@ -85,8 +84,7 @@ Using **Generative AI** to promote:
 ### Contact
 Let’s collaborate to explore how I can add value to your organization and drive innovation:
 
-- **Email:** [kleber.ime.usp@gmail.com](mailto:kleber.ime.usp@gmail.com)  
-- **Phone/WhatsApp:** +55 (11) 97656-0467  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberaugustosantos/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber.ime.usp@gmail.com)  
 
 ---
 

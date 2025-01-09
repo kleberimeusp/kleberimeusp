@@ -24,12 +24,27 @@ With experience in **multinational corporations**, **investment banks**, **retai
 
 ---
 
-### Leadership in Finance, Retail, and Telecommunications
+### Leadership in Finance, Retail, Payments, and Customer Service
 
-My experience includes working across global finance, retail, and telecommunications sectors, where I have:
-- Collaborated with major retail brands to transform customer experiences and optimize supply chain management.
-- Contributed to **financial inclusion** initiatives, making payment systems more accessible to underbanked communities.
-- Participated in innovation projects with top global telecom operators, such as **AT&T** and **Verizon**, promoting the growth of 5G networks and digital infrastructure.
+#### Banks
+I have worked extensively with both **private and public banks in Brazil and abroad**, including:
+- **Brazilian Private Banks**: Itaú Unibanco, Bradesco, BTG Pactual.
+- **Brazilian Public Banks**: Banco do Brasil, Caixa Econômica Federal, BNDES.
+- **International Banks**: JPMorgan Chase, Goldman Sachs, HSBC, Deutsche Bank, Santander.
+
+#### Payment Methods
+I have contributed to global innovations in **payment systems**, collaborating with leading companies and platforms:
+- **Card Payment Networks**: Visa, Mastercard, American Express, UnionPay.
+- **Digital Payment Platforms**: PayPal, Stripe, Adyen, Mercado Pago, PagSeguro, Square.
+- **Cryptocurrency and Blockchain**: Integration with platforms like Ripple, Bitcoin, Ethereum, and blockchain-based payment solutions.
+- **Brazilian Payment Initiatives**: Development and expansion of the **PIX system** and integration with Boleto Bancário.
+
+#### Customer Service and Support
+- **ServiceNow**: Implemented ServiceNow for IT service management (ITSM) and streamlined incident and request resolution processes.
+- **Chatbots**: Designed and deployed AI-driven **support chatbots**, enabling 24/7 customer service, reducing wait times, and improving user satisfaction.
+- **Customer Experience**: Enhanced customer service for banking, retail, and telecommunications by integrating **omnichannel solutions** and automating workflows.
+
+---
 
 ### Leadership in Content and Brazilian Journalism
 
@@ -65,4 +80,4 @@ Let’s collaborate to explore how I can add value to your organization and driv
 ---
 
 ### Tech Stacks
-**Java** | **Spring Boot** | **Hibernate** | **JPA (Java Persistence API)** | **Maven** | **RESTful APIs** | **Microservices** | **Docker** | **Kubernetes** | **Jenkins** | **Azure** | **AWS** | **Google Cloud** | **Terraform** | **Ansible** | **Python** | **FastAPI** | **Flask** | **TensorFlow** | **PyTorch** | **LLM (Large Language Models)** | **Generative AI** | **SQL** | **NoSQL** | **Oracle** | **PostgreSQL** | **MySQL** | **MongoDB** | **JavaScript** | **Node.js** | **React.js** | **Angular** | **TypeScript** | **CI/CD** | **GitHub Actions** | **GitLab CI** | **Eclipse** | **IntelliJ IDEA** | **Design Patterns** | **Agile Methodologies** | **Scrum** | **IT Governance** | **Compliance and Security** | **Scalability** | **Architecture Documentation** | **BFF** | **Golang** | **Kotlin** | **Flutter** | **React Native** | **Figma** | **.Net** | **Multicloud**
+**Java** | **Spring Boot** | **Hibernate** | **JPA (Java Persistence API)** | **Maven** | **RESTful APIs** | **Microservices** | **Docker** | **Kubernetes** | **Jenkins** | **Azure** | **AWS** | **Google Cloud** | **Terraform** | **Ansible** | **Python** | **FastAPI** | **Flask** | **TensorFlow** | **PyTorch** | **LLM (Large Language Models)** | **Generative AI** | **SQL** | **NoSQL** | **Oracle** | **PostgreSQL** | **MySQL** | **MongoDB** | **JavaScript** | **Node.js** | **React.js** | **Angular** | **TypeScript** | **CI/CD** | **GitHub Actions** | **GitLab CI** | **Eclipse** | **IntelliJ IDEA** | **Design Patterns** | **Agile Methodologies** | **Scrum** | **IT Governance** | **Compliance and Security** | **Scalability** | **Architecture Documentation** | **BFF** | **Golang** | **Kotlin** | **Flutter** | **React Native** | **Figma** | **.Net** | **Multicloud** | **ServiceNow** | **ITIL Process** | **ITSM** | **ITOM** | **CMDB** | **CSM** | **CSM Workspace Configuration and Implementation** | **Integration** | **Flow Designer** | **Integration Hub** | **REST and SOAP Methods** | **JavaScript** | **HTML** | **CSS** | **jQuery** | **AngularJS** | **Troubleshooting** | **ServiceNow Version Upgrade** | **System Cloning** | **B2B Mapping**

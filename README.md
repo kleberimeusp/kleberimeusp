@@ -19,7 +19,7 @@ With experience in **multinational corporations**, **investment banks**, **retai
 ### Career Highlights
 - Transformed an operation with fewer than 230 service providers in the US to over 1,700, doubling revenue and profits in just 11 months with predictable funnels.
 - Built departments from scratch, trained individuals, and implemented technological, administrative, and financial processes.
-- Developed the company's main sales funnel, generating **$350 million in monthly profit** with an exceptionally lean operation.
+- Developed the company's main sales funnel, generating **$950 million in monthly profit** with an exceptionally lean operation.
 - Led initiatives to migrate legacy systems to cloud platforms, enhancing scalability and operational efficiency.
 
 ---

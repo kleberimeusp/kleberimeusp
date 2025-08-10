@@ -24,48 +24,50 @@ With experience in **multinational corporations**, **investment banks**, **retai
 
 ---
 
-### Leadership in Finance, Retail, Payments, and Customer Service
+## Leadership in Finance, Retail, Payments, and Customer Service
 
-#### Banks
-I have worked extensively with both **private and public banks in Brazil and abroad**, including:
-- **Brazilian Private Banks**: Itaú Unibanco, Bradesco, BTG Pactual.
-- **Brazilian Public Banks**: Banco do Brasil, Caixa Econômica Federal, BNDES.
-- **International Banks**: JPMorgan Chase, Goldman Sachs, HSBC, Deutsche Bank, Santander.
+### Banking
 
-#### Payment Methods
-I have contributed to global innovations in **payment systems**, collaborating with leading companies and platforms:
-- **Card Payment Networks**: Visa, Mastercard, American Express, UnionPay.
-- **Digital Payment Platforms**: PayPal, Stripe, Adyen, Mercado Pago, PagSeguro, Square.
-- **Cryptocurrency and Blockchain**: Integration with platforms like Ripple, Bitcoin, Ethereum, and blockchain-based payment solutions.
-- **Brazilian Payment Initiatives**: Development and expansion of the **PIX system** and integration with Boleto Bancário.
+Extensive experience working with **major global financial institutions**, as well as **leading public and private banks in South America and Brazil**. My work spans strategic transformation, digital innovation, and operational excellence in both domestic and international banking environments.
 
-#### Customer Service and Support
-- **ServiceNow**: Implemented ServiceNow for IT service management (ITSM) and streamlined incident and request resolution processes.
-- **Chatbots**: Designed and deployed AI-driven **support chatbots**, enabling 24/7 customer service, reducing wait times, and improving user satisfaction.
-- **Customer Experience**: Enhanced customer service for banking, retail, and telecommunications by integrating **omnichannel solutions** and automating workflows.
+### Payment Methods
 
----
+Significant contributions to **global payment system innovations**, including collaborations with:
 
-### Leadership in Content and Brazilian Journalism
+* **International Card Payment Networks** and **regional acquiring networks**.
+* **Leading digital payment platforms** operating across North America, Europe, and South America.
+* **Cryptocurrency and blockchain-based payment solutions**, including integration with large-scale decentralized platforms.
+* **National and regional payment initiatives**, such as instant payment systems and traditional boleto-based transactions in Brazil.
 
-In the content and journalism sector:
-- Worked with leaders like **Grupo Globo** and **Folha de S.Paulo**, helping transform media operations for the digital age, including monetization strategies through online subscriptions.
-- Initiated AI-driven content projects, improving efficiency in creating news and articles.
+### Customer Service and Support
 
-### Leadership in Chemical, Automotive, and Pharmaceutical Industries
-
-My contributions to various industries include:
-- **Chemicals**: Supporting leaders like **BASF** and **Dow Chemical** in implementing sustainable and innovative solutions for industrial processes.
-- **Automotive**: Collaborated with leaders like **Toyota** and **Volkswagen** to optimize production chains using AI and robotics.
-- **Pharmaceuticals**: Designed technological strategies for leaders like **Pfizer** and **Novartis**, promoting efficiency in R&D and clinical data management.
+* **Enterprise Service Management**: Implementation of large-scale IT service management solutions to optimize incident handling and request resolution.
+* **AI-Driven Chatbots**: Design and deployment of 24/7 automated customer service systems to reduce response times and increase satisfaction.
+* **Omnichannel Experience**: Integration of banking, retail, and telecom support across multiple channels with workflow automation.
 
 ---
 
-### Social Impact with Generative AI
-Using **Generative AI** to promote:
-- **Social Inclusion**: Creating AI-driven platforms for skill training, job matching, and mentorship for low-income individuals.
-- **Financial Empowerment**: Developing tools to simplify budgeting, improve financial literacy, and expand access to banking services.
-- **Retail Accessibility**: Introducing AI-powered customer service for retail in underserved regions.
+## Leadership in Content and Journalism in Brazil
+
+In the **media and journalism sector**, supported **major Brazilian media conglomerates** in their digital transformation, implementing modern monetization strategies such as subscription models and AI-assisted content production to enhance efficiency and reach.
+
+---
+
+## Leadership in Chemical, Automotive, and Pharmaceutical Industries
+
+* **Chemicals**: Supported **global chemical leaders** in adopting sustainable, innovative industrial process improvements.
+* **Automotive**: Partnered with **major automotive manufacturers** in South America to enhance production chains through AI, automation, and robotics.
+* **Pharmaceuticals**: Developed technology strategies for **leading pharmaceutical corporations**, improving R\&D efficiency and clinical data management.
+
+---
+
+## Social Impact with Generative AI
+
+Leveraging **Generative AI** to:
+
+* **Promote Social Inclusion**: AI platforms for skills training, job placement, and mentorship for underserved populations.
+* **Enable Financial Empowerment**: Tools for budgeting, financial literacy, and banking access in emerging markets.
+* **Expand Retail Accessibility**: AI-powered customer service solutions for retail in underserved regions.
 
 ---
 

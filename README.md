@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am an **AI Solutions Architect** specializing in **LLM**, **ML**, and **Generative AI**, with a solid background in technology and **over 28 years of extensive experience**. Throughout my career, I have generated millions for companies by creating high-converting funnels, advanced paid traffic strategies, branding, and optimizing public and private administrative processes using cutting-edge technology.
+I am an **AI Solutions Architect** specializing in **LLM**, **ML**, and **Generative AI**, with a solid background in technology and **over 29 years of extensive experience**. Throughout my career, I have generated millions for companies by creating high-converting funnels, advanced paid traffic strategies, branding, and optimizing public and private administrative processes using cutting-edge technology.
 
 My journey also includes contributions to **financial inclusion**, **retail transformations**, **telecommunications**, **Brazilian content and journalism**, **chemical industries**, **automotive industries**, **pharmaceuticals**, and other global sectors. I leverage **Generative AI** to promote social inclusion, benefiting underserved communities and low-income individuals. As a mentor, I actively contribute to inclusion initiatives, guiding professionals from diverse backgrounds to succeed in technology and business.
 
